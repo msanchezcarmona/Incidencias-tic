@@ -9,10 +9,11 @@
 para que tu documento gane accesibilidad. El ejemplo supone que las imágenes las guardas en la carpeta "res"): ![alt text](res/image.png) -->
 <!-- En Visual Studio Code puedes previsualizar un archivo markdown pulsando con botón derecho del ratón y seleccionando "Open preview"-->
 1) Tabla `incidencias` (estructura):
+   <img width="1557" height="749" alt="Image" src="https://github.com/user-attachments/assets/07c5434e-ca75-4363-8dda-87e6e241f744" />
 2) RLS activado (se puede mirar en el editor de tablas de Supabase, pregunta a tu LLM favorito):
-3) Policy (SELECT/INSERT/UPDATE) (se puede mirar donde mismo, pregunta a tu LLM favorito):
-4) App funcionando (crear y listar):
-5) App funcionando (cerrar incidencia):
+4) Policy (SELECT/INSERT/UPDATE) (se puede mirar donde mismo, pregunta a tu LLM favorito):
+5) App funcionando (crear y listar):
+6) App funcionando (cerrar incidencia):
 
 ## CE.f — Procedimiento de almacenaje cloud
 - Servicio cloud usado: Supabase (Postgres + Auth + RLS)
