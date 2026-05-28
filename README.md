@@ -2,7 +2,7 @@
 
 ## Enlaces
 - Repo: https://github.com/msanchezcarmona/Incidencias-tic.git
-- GitHub Pages: (pega aquí)
+- GitHub Pages: https://msanchezcarmona.github.io/Incidencias-tic/
 
 ## Evidencias (capturas)
 <!-- Puedes añadir una imagen (captura de pantalla) del siguiente modo (sustituye "alt text" por un texto alternativo
