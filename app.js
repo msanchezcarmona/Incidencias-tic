@@ -14,7 +14,7 @@
 
 // ======================
 // TODO 1: pega aquí tus credenciales (Supabase → Project Settings → API)
-const SUPABASE_URL = "https://agtgcxhlzdgfoymbxffa.supabase.co/rest/v1/";
+const SUPABASE_URL = "https://agtgcxhlzdgfoymbxffa.supabase.co";
 const SUPABASE_ANON_KEY = "sb_publishable_lDzzS7JFFfLFydomjrxRvQ_5KaEnSlh";
 // ======================
 
